@@ -1,6 +1,6 @@
 - Hi, I’m @lindzfaith
-- I’m interested in software engineering and game development in my personal time.
-- I’m currently learning C and data structures.
+- I’m interested in software engineering and front end development.
+- I’m currently learning ReactJS. 
 
 <!---
 lindzfaith/lindzfaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
