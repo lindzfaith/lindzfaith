@@ -1,5 +1,5 @@
 - Hi, I’m @lindzfaith
-- I’m interested in software engineering and frontend development.
+- I’m interested in software engineering and full-stack development.
 - I’m currently learning Javascript and React. 
 
 <!---
